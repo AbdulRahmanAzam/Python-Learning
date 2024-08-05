@@ -10,7 +10,7 @@ I am following the "Code with Harry" YouTube channel. [here](https://www.youtube
 
 ## Notes
 I have also included a PDF file of notes.
- [The Ultimate Python Handbook.pdf] (https://github.com/user-attachments/files/16499418/The.Ultimate.Python.Handbook.pdf)
+ [The Ultimate Python Handbook.pdf](https://github.com/user-attachments/files/16499418/The.Ultimate.Python.Handbook.pdf)
 
 ### Progress
 Start Date: August 3, 2024
