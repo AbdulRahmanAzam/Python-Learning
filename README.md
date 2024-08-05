@@ -27,3 +27,11 @@ File Handling
 Pandas
 Matplotlib
 NumPy
+
+## Contributing
+Feel free to fork this repository and contribute by submitting pull requests. Any improvements, additional exercises, or resources are welcome!
+
+## Contact
+If you have any questions or suggestions, feel free to reach out to me via GitHub issues or directly at @azamabdulrahman930@gmail.com
+
+Happy coding!
