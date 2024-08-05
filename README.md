@@ -17,16 +17,16 @@ Start Date: August 3, 2024
 End Date (Goal): August 23, 2024
 
 ### Topics Covered
-Python Basics
-Control Flow
-Functions
-Object-Oriented Programming (OOP)
-Modules and Packages
-Exception Handling
-File Handling
-Pandas
-Matplotlib
-NumPy
+1. Python Basics
+2. Control Flow
+3. Functions
+4. Object-Oriented Programming (OOP)
+5. Modules and Packages
+6. Exception Handling
+7. File Handling
+8. Pandas
+9. Matplotlib
+10. NumPy
 
 ## Contributing
 Feel free to fork this repository and contribute by submitting pull requests. Any improvements, additional exercises, or resources are welcome!
