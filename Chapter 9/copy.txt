@@ -1,0 +1,6 @@
+wow
+this is amazing
+kia kehne hen
+acha he acha he
+
+with open("this.txt","r") as f:
